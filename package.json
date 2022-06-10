@@ -53,7 +53,7 @@
     "jest": "26.6.3",
     "parcel-bundler": "1.12.5",
     "prettier": "2.3.2",
-    "semantic-release": "17.4.4",
+    "semantic-release": "19.0.3",
     "semantic-release-github-pr": "https://github.com/mysterycommand/semantic-release-github-pr.git#fix/34-and-35",
     "ts-jest": "26.5.6",
     "tslint": "6.1.3",
